@@ -6,5 +6,6 @@ def reverse_each_word(sentence)
     reversed.unshift(word)
   end 
   
+  
 end 
   
